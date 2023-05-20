@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class Mensagem {
 
     public boolean realizaPergunta(String pergunta, Pessoa pessoa, Scanner scanner) {
