@@ -1,4 +1,5 @@
-public class CalculoPorcentagem {
+ public class CalculoPorcentagem {
+
   public void calculaPorcentagem(Pessoa pessoa) {
     // Se a pessoa retornou de viagem
     if (pessoa.estaRetornandoViagem.equals("SIM")) {
@@ -22,3 +23,4 @@ public class CalculoPorcentagem {
     }
   }
 }
+  
