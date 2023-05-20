@@ -98,3 +98,5 @@ Você deverá criar um ***"Fork"*** deste repositório, e após isso, versionar 
 Utilize o conceito de Git Semântico para versioná-lo.<br>
 Você deverá enviar o link (url) do seu repositório na atividade da lista proposta em aula.<br>
 Bons estudos!
+
+Utilizando o Stack Overflow como auxílio, fiz modificações nos códigos referentes à classe "Pessoa" alterando atributos e modificando o sentido de algumas atribuições. Além disso, fundi alguns atributos em uma única classe visando otimizar o objeto. É importante ressaltar que todas as alterações foram realizadas com base no meu conhecimento limitado sobre a linguagem em geral e com a assistência de sites como o Stack Overflow e uma Inteligência Artificial.
